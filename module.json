@@ -15,6 +15,9 @@
     "minimum": "0.8.6",
     "verified": "10.286"
   },
+  "scripts": [
+	"init.js"
+  ],
   "packs": [
     {
       "name": "module-creatures",
