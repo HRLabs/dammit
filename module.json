@@ -2,7 +2,7 @@
   "id": "dammit",
   "title": "Aumera: Grey Skies and Grim Dawns",
   "description": "Aumera",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": [
     {
       "name": "Bob Kelly of Heresy Research Labs",
@@ -111,6 +111,6 @@
     }
   ],
   "url": "https://gitlab.com/HRLabs/dammit",
-  "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
-  "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+  "manifest": "https://github.com/HRLabs/dammit/releases/download/0.0.2/module.json",
+  "download": "https://github.com/HRLabs/dammit/releases/download/0.0.2/dammit.zip"
 }
